@@ -16,6 +16,6 @@ Inorder to play the game, you will need the Python 3.5 interpreter with Pygame l
  
 3.Install the pygame library by using pip
 
-  http://stackoverflow.com/a/35665890(refer to this Stack Overflow discussion)
+  http://stackoverflow.com/a/35665890 (refer to this Stack Overflow discussion)
   
 4.Run the car_infinity.py program.
